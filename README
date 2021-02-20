@@ -1,0 +1,9 @@
+Implementation of calculator using Reverse Polish notation.
+Implements arithmetic operations, math functions, variables (see example.txt)
+
+Program calculates each line separately and writes the answer next to it: 1 + 2 == 3
+
+build: 
+	'make' produces 'calc' executable
+	
+execution: 'calc' starts interactive proccess of reading input and producing output
